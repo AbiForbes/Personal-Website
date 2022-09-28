@@ -1,0 +1,25 @@
+body{
+    background-color: #1f006e;
+    font-family: "Helvatica";
+    color:white;
+    
+}
+h1{
+    
+        border: 15px #a1873f;
+        padding: 14px 25px;
+    
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+a:link{
+    color: #f7db8d;
+
+}
+a:visited{
+    color: #a1873f;
+}
+a:hover{
+    color: aqua;
+}
